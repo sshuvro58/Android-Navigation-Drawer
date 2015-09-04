@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigatio Drawer Fragment Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets">
+        <item>Mars</item>
+        <item>Earth</item>
+    </string-array>
+    <string-array name="stars">
+        <item>Sun</item>
+        <item>Moon</item>
+    </string-array>
+</resources>
